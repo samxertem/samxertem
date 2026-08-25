@@ -2,7 +2,7 @@
 
 Computer Engineering & Mechatronics double major, building at the intersection of **AI, game systems, and software engineering**.
 
-- 🧠 AI Developer @ **TAMSDATA Software Technologies** — ML, NLP, Computer Vision, AI agents & RAG systems
+- 🧠 AI Developer — ML, NLP, Computer Vision, AI agents & RAG systems
 - 🎓 3rd-year CE student @ İzmir University of Economics — Undergraduate Student Assistant for Programming Fundamentals
 - 🕹️ 3rd Place, **ODTÜ Game Jam 2026** — shipped a 3D game called *Loop*
 - 🚀 Currently building: LLM-powered agent tooling, RAG pipelines, and procedurally-generated game AI
@@ -20,7 +20,6 @@ Procedural generation (BSP + Wave Function Collapse), FSM-driven agent AI, A* pa
 **Software Engineering**
 Java-based systems with real users — scheduling engines, conflict resolution algorithms, and full-stack desktop tools built in small teams.
 
-More AI/LLM + engine projects landing in this profile soon — actively building 🚧
 
 ---
 
@@ -38,17 +37,6 @@ More AI/LLM + engine projects landing in this profile soon — actively building
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Object-Detection-with-yolov8n](https://github.com/samxertem/Object-Detection-with-yolov8n) | YOLOv8 object detection, 4-class model trained over 150 epochs |
-| [Titanic-Machine-Learning-from-Disaster](https://github.com/samxertem/Titanic-Machine-Learning-from-Disaster) | Classic ML classification project |
-| [metu_gamejam](https://github.com/samxertem/metu_gamejam) | 3D game "Loop" — 3rd place, ODTÜ Game Jam 2026 |
-| [Project-Bluejack](https://github.com/samxertem/Project-Bluejack) | Java project |
 
 ---
 
