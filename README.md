@@ -2,7 +2,7 @@
   <h2><samp>SAM_ERTEM</samp></h2>
   <p><samp>Computer Engineering & Mechatronics</samp></p>
   <p>Building at the intersection of AI, procedural environments, and software logic.</p>
-  <p>Found peace in minimal.</p>
+  <p> </p>
   <br>
   <img src="https://profile-counter.glitch.me/samxertem/count.svg" alt="Views" />
 </div>
