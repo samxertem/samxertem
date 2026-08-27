@@ -20,7 +20,7 @@
 <br>
 
 ### <samp>CURRENT_FOCUS</samp>
-AI Developer @ Tamsdata Tech. Currently engineering local frameworks, retrieval-augmented memory pipelines, and procedural game AI that pushes hardware limits. 
+AI Developer Currently engineering local frameworks, retrieval-augmented memory pipelines, and procedural game AI that pushes hardware limits. 
 
 - **extNPC Health Engine:** Developing a simulation framework mapping diploid genomes and meiotic crossovers for autonomous entities.
 - **FPS Framework:** Architecting an active first-person shooter with advanced animation rigging and custom UI overlays. 
