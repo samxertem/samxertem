@@ -1,55 +1,58 @@
-# Hey, I'm Sam 👋
+<div align="center">
+  <p><b>>_ SYS.INIT // ID: MURATHAN_SAM_ERTEM</b></p>
+  <p><i>Double major construct. Computer Engineering & Mechatronics.</i></p>
+  <p>Architecting at the intersection of neural networks, procedural sprawls, and cold software logic.</p>
+  <br>
+  <img src="https://profile-counter.glitch.me/samxertem/count.svg" alt="Trace Route" />
+</div>
 
-Computer Engineering & Mechatronics double major, building at the intersection of **AI, game systems, and software engineering**.
+<br>
 
-- 🧠 AI Developer — ML, NLP, Computer Vision, AI agents & RAG systems
-- 🎓 3rd-year CE student @ İzmir University of Economics — Undergraduate Student Assistant for Programming Fundamentals
-- 🕹️ 3rd Place, **ODTÜ Game Jam 2026** — shipped a 3D game called *Loop*
-- 🚀 Currently building: LLM-powered agent tooling, RAG pipelines, and procedurally-generated game AI
-
----
-
-### 🔭 What I work on
-
-**Machine Learning & AI**
-Computer vision (YOLOv8, ResNet18), classic ML, and increasingly LLM-driven systems — AI agents, RAG pipelines, and tooling that connects models to real applications.
-
-**Game Dev / Simulation**
-Procedural generation (BSP + Wave Function Collapse), FSM-driven agent AI, A* pathfinding, and physics-based perception (raycast line-of-sight) — built in Unity/C#.
-
-**Software Engineering**
-Java-based systems with real users — scheduling engines, conflict resolution algorithms, and full-stack desktop tools built in small teams.
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samxertem/samxertem/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samxertem/samxertem/output/github-contribution-grid-snake-dark.svg">
+    <img alt="data crawler routine" src="https://raw.githubusercontent.com/samxertem/samxertem/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+  <p><i>[ Execution continuous. Data crawler routing through contribution matrix. ]</i></p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+**[ TERMINAL OUTPUT: CURRENT DIRECTIVES ]**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+I build at the bleeding edge of machine learning, procedural game environments, and software architecture. I found peace in the minimal, stripping away the noise to focus on raw algorithmic logic, population-genetics simulation engines, and first-person systems that think.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
++ **Operation:** Engineering LLM-powered agent tooling, retrieval-augmented memory pipelines, and procedurally-generated AI frameworks.
++ **Designation:** Third-year operative and Programming Fundamentals assistant at Izmir University of Economics.
++ **Milestone:** Architected 3D construct "Loop" — 3rd Place, ODTU Game Jam 2026.
 
 ---
 
-### 📊 GitHub Stats
+**[ CORE CAPABILITIES & ICE ]**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samxertem&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samxertem&layout=compact&hide_border=true" height="165"/>
-</p>
+**[+] Neural & Vision:** PyTorch, TensorFlow, LangChain, HuggingFace, OpenCV, YOLOv8, ResNet18. Connecting language models to physical and digital realities.
+**[+] Simulation & Physics:** Unity, C#, Binary Space Partitioning, Wave Function Collapse, FSM-driven logic, raycast perception. Building worlds and the autonomous entities that survive them.
+**[+] Architecture:** Java, Python, C, SQL. Scheduling engines, algorithmic conflict resolution, and structural backend systems.
 
 ---
 
-### 📫 Reach me
+**[ NETWORK STATS ]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/murathan-sam-ertem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:murathansam@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samxertem&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samxertem&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
+</div>
+
+---
+
+**[ ESTABLISH COMMS ]**
+
+<div align="center">
+  <a href="https://linkedin.com/in/murathan-sam-ertem">
+    <img src="https://img.shields.io/badge/Secure_Link-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
+  </a>
+  <a href="mailto:murathansam@gmail.com">
+    <img src="https://img.shields.io/badge/Encrypted_Comms-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email">
+  </a>
+</div>
